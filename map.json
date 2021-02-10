@@ -33,6 +33,7 @@
          "height":34,
          "id":16,
 <<<<<<< HEAD
+<<<<<<< HEAD
          "name":"Kachelebene 10",
 =======
          "id":14,
@@ -44,6 +45,9 @@
 =======
          "name":"W\u00fcste",
 >>>>>>> parent of 3939508... Revert "Update map.json"
+=======
+         "name":"W\u00fcste",
+>>>>>>> parent of 3939508 (Revert "Update map.json")
          "opacity":1,
          "type":"imagelayer",
          "visible":true,
